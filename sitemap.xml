@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://peaceinblue.netlify.app/</loc>
+    <loc>https://peaceinblue.fr/</loc>
     <lastmod>2026-08-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://peaceinblue.netlify.app/assets/img/piscine-entretien-bandol-hero.jpg</image:loc>
+      <image:loc>https://peaceinblue.fr/assets/img/piscine-entretien-bandol-hero.jpg</image:loc>
       <image:title>Entretien de piscine à Bandol, de Cassis à Toulon — Peace in Blue</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://peaceinblue.netlify.app/assets/img/pisciniste-entretien-piscine-var.jpg</image:loc>
+      <image:loc>https://peaceinblue.fr/assets/img/pisciniste-entretien-piscine-var.jpg</image:loc>
       <image:title>Nettoyage et entretien d'une piscine privée dans le Var</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://peaceinblue.netlify.app/assets/img/piscine-villa-cassis-toulon.jpg</image:loc>
+      <image:loc>https://peaceinblue.fr/assets/img/piscine-villa-cassis-toulon.jpg</image:loc>
       <image:title>Villa avec piscine sur le littoral entre Cassis et Toulon</image:title>
     </image:image>
   </url>

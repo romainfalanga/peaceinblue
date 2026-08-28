@@ -35,4 +35,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://peaceinblue.netlify.app/sitemap.xml
+Sitemap: https://peaceinblue.fr/sitemap.xml
