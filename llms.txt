@@ -5,7 +5,6 @@
 ## Services
 
 - Entretien régulier de piscine : nettoyage complet (bassin, ligne d'eau, skimmers), analyse et traitement de l'eau (pH, équilibre, chlore ou sel), entretien des équipements (pompe, filtre, électrolyseur, local technique).
-- Hivernage à l'automne et remise en service au printemps.
 - Passages ponctuels (avant une arrivée, pendant une absence), avec le contenu complet d'un entretien.
 - Suivi transparent : compte-rendu détaillé envoyé automatiquement après chaque passage, avec l'état de l'eau, les interventions réalisées et des photos.
 
